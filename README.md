@@ -1,2 +1,3 @@
 # 2018trends
-Top Ed-Tech Trends 2018
+
+The stories we were told about education technology in 2018
